@@ -50,7 +50,7 @@
 /*
  * Maximum connector's message size.
  */
-#define CONNECTOR_MAX_MSG_SIZE		16384
+#define CONNECTOR_MAX_MSG_SIZE		65536
 
 /*
  * idx and val are unique identifiers which 
